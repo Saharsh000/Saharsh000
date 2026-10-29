@@ -23,25 +23,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b35,100:c1121f&height=2" width="100%" alt=""/>
 
-## 🎮 Player card
-
-```yaml
-player:      Saharsh
-class:       Back-end Mage (in training) ⚙️
-origin:      India 🇮🇳
-guild:       ICSE alumni, batch of 2026
-main_quest:  JEE 2028 🔒   # status: locked in
-side_quests:
-  - Discord bots
-  - Python desktop apps + math tools
-  - Pokémon Emerald hacking (in C)
-weapons:     [Python, Java, JavaScript, HTML, PowerShell]
-loot:        way too many fantasy novels 📚
-special:     builds random things just to see if they work
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b35,100:c1121f&height=2" width="100%" alt=""/>
-
 ## 🔥 whoami
 
 ```bash
@@ -150,7 +131,7 @@ $ contact --me
 
 <div align="center">
 
-**Thanks for stopping by 🔥**
+**Thanks for stopping by. Go build something cool. 🔥**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7931e,100:c1121f&height=120&section=footer" alt="footer" width="100%"/>
 
